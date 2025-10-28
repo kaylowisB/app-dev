@@ -2,7 +2,7 @@
 
 **Knives Out** is a *2019 mystery film* written and directed by **Rian Johnson**.  
 It follows the brilliant detective **Benoit Blanc** as he investigates the mysterious death of wealthy author **Harlan Thrombey**.  
-> 🕵*"A twisting tale of lies, greed, and family secrets."*
+> *"A twisting tale of lies, greed, and family secrets."*
 
 ---
 
@@ -32,11 +32,4 @@ Did you know? The movie was so successful it led to a sequel titled *Glass Onion
 ### Famous Quote
 > “I suspect foul play, and I have eliminated no suspects.” — **Benoit Blanc**
 
----
 
-### Code Snippet (for fun)
-```python
-# A little mystery in code form
-suspects = ["Marta", "Ransom", "Linda", "Walt"]
-for person in suspects:
-    print(f"🔍 Investigating {person}...")
